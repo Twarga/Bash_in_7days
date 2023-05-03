@@ -1,0 +1,99 @@
+2023-03-14 05:33:14,967 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 05:33:14,968 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 05:33:14,969 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 05:33:14,969 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 05:33:14,970 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 05:33:14,970 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 05:33:14,970 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 05:33:14,971 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 05:33:14,971 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 05:34:41,333 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 05:34:41,333 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 05:34:41,334 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 05:34:41,334 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 05:34:41,335 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 05:34:41,335 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 05:34:41,336 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 05:34:41,336 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 05:34:41,336 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 05:34:41,577 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 05:34:41,577 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 05:34:41,578 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 05:34:41,578 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 05:34:41,579 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 05:34:41,579 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 05:34:41,579 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 05:34:41,580 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 05:34:41,580 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 05:35:27,783 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 05:35:27,784 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 05:35:27,784 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 05:35:27,784 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 05:35:27,785 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 05:35:27,785 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 05:35:27,786 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 05:35:27,786 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 05:35:27,787 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 06:15:36,338 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 06:15:36,339 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 06:15:36,339 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 06:15:36,339 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 06:15:36,340 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 06:15:36,340 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 06:15:36,340 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 06:15:36,340 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 06:15:36,340 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 06:16:09,874 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 06:16:09,874 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 06:16:09,874 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 06:16:09,875 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 06:16:09,875 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 06:16:09,875 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 06:16:09,875 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 06:16:09,875 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 06:16:09,875 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 06:17:57,807 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 06:17:57,808 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 06:17:57,808 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 06:17:57,809 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 06:17:57,809 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 06:17:57,810 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 06:17:57,810 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 06:17:57,811 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 06:17:57,811 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 06:20:12,578 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 06:20:12,579 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 06:20:12,580 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 06:20:12,580 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 06:20:12,580 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 06:20:12,581 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 06:20:12,581 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 06:20:12,582 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 06:20:12,582 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.
+2023-03-14 06:21:35,826 - kernelstub           : DEBUG    Got command line options: Namespace(dry_run=False, print_config=False, esp_path=None, root_path=None, kernel_path=None, initrd_path=None, k_options=None, add_options=None, remove_options=None, log_file=None, setup_loader=False, off_loader=False, install_stub=False, manage_mode=False, force_update=False, verbosity=1, preserve_live=True)
+2023-03-14 06:21:35,827 - kernelstub.Config    : DEBUG    loaded kernelstub.Config
+2023-03-14 06:21:35,827 - kernelstub.Config    : INFO     Looking for configuration...
+2023-03-14 06:21:35,828 - kernelstub.Config    : DEBUG    Checking /etc/kernelstub/configuration
+2023-03-14 06:21:35,828 - kernelstub.Config    : DEBUG    Configuration found!
+2023-03-14 06:21:35,829 - kernelstub.Config    : DEBUG    {'kernel_options': ['quiet', 'loglevel=0', 'systemd.show_status=false'], 'esp_path': '/boot/efi', 'setup_loader': True, 'manage_mode': True, 'force_update': False, 'live_mode': True, 'config_rev': 3}
+2023-03-14 06:21:35,829 - kernelstub.Config    : DEBUG    Configuration version: 3
+2023-03-14 06:21:35,829 - kernelstub.Config    : DEBUG    Configuration up to date
+2023-03-14 06:21:35,830 - kernelstub           : WARNING  Live mode is enabled!
+Kernelstub is running in live environment mode. This usually means that you are running a live disk, and kernelstub should not run. We are thus exiting with 0.
+If you are not running a live disk, please run `sudo kernelstub` to disable live mode.

@@ -1,0 +1,918 @@
+Apr 23 14:58:55 pop-os systemd-logind[666]: Operation 'sleep' finished.
+Apr 23 14:59:00 pop-os gnome-keyring-daemon[2092]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 23 14:59:01 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 23 15:00:05 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 23 15:00:05 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 23 15:14:36 pop-os systemd-logind[666]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 23 15:17:01 pop-os CRON[37190]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 23 15:17:01 pop-os CRON[37190]: pam_unix(cron:session): session closed for user root
+Apr 23 15:56:17 pop-os gnome-keyring-daemon[2092]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 23 16:17:01 pop-os CRON[39897]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 23 16:17:01 pop-os CRON[39897]: pam_unix(cron:session): session closed for user root
+Apr 23 16:26:53 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga ; USER=root ; COMMAND=/usr/bin/apt install tracert
+Apr 23 16:26:53 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 23 16:26:54 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 23 16:56:17 pop-os gnome-keyring-daemon[2092]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 23 17:17:01 pop-os CRON[43399]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 23 17:17:01 pop-os CRON[43399]: pam_unix(cron:session): session closed for user root
+Apr 23 17:56:17 pop-os gnome-keyring-daemon[2092]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 23 18:15:06 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga ; USER=root ; COMMAND=/usr/bin/apt install tcpdump
+Apr 23 18:15:06 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 23 18:15:07 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 23 18:15:19 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga ; USER=root ; COMMAND=/usr/bin/tcpdump
+Apr 23 18:15:19 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 23 18:15:23 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 23 18:17:01 pop-os CRON[48380]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 23 18:17:01 pop-os CRON[48380]: pam_unix(cron:session): session closed for user root
+Apr 23 18:17:06 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga ; USER=root ; COMMAND=/usr/bin/wireshark
+Apr 23 18:17:06 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 23 18:43:35 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 23 18:45:21 pop-os systemd-logind[666]: System is powering down.
+Apr 24 10:15:35 pop-os systemd-logind[745]: New seat seat0.
+Apr 24 10:15:35 pop-os systemd-logind[745]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 24 10:15:35 pop-os systemd-logind[745]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 24 10:15:35 pop-os systemd-logind[745]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 24 10:15:35 pop-os systemd-logind[745]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 24 10:15:35 pop-os systemd-logind[745]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 24 10:15:36 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 24 10:15:36 pop-os systemd-logind[745]: New session c1 of user gdm.
+Apr 24 10:15:36 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 24 10:15:39 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 24 10:15:42 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 24 10:15:42 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 24 10:16:06 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 24 10:16:06 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 24 10:16:06 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 24 10:16:06 pop-os systemd-logind[745]: New session 2 of user twarga.
+Apr 24 10:16:06 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 24 10:16:06 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 24 10:16:07 pop-os gnome-keyring-daemon[2039]: The PKCS#11 component was already initialized
+Apr 24 10:16:07 pop-os gnome-keyring-daemon[2039]: The Secret Service was already initialized
+Apr 24 10:16:07 pop-os gnome-keyring-daemon[2039]: The SSH agent was already initialized
+Apr 24 10:16:08 pop-os gnome-keyring-daemon[2039]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 24 10:16:09 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.81 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 24 10:16:15 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 24 10:16:15 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 24 10:16:15 pop-os systemd-logind[745]: Session c1 logged out. Waiting for processes to exit.
+Apr 24 10:16:15 pop-os systemd-logind[745]: Removed session c1.
+Apr 24 10:16:24 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 10:16:24 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 10:16:26 pop-os systemd: pam_unix(systemd-user:session): session closed for user gdm
+Apr 24 10:17:01 pop-os CRON[4066]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 24 10:17:01 pop-os CRON[4066]: pam_unix(cron:session): session closed for user root
+Apr 24 10:17:39 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 10:17:39 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 10:18:23 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 10:18:23 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 10:18:44 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 10:18:44 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 10:19:25 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 10:19:25 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 10:19:55 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 10:19:55 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 11:01:42 pop-os systemd-logind[745]: Lid closed.
+Apr 24 11:01:42 pop-os systemd-logind[745]: Suspending...
+Apr 24 16:11:28 pop-os systemd-logind[745]: Lid opened.
+Apr 24 16:11:29 pop-os systemd-logind[745]: Operation 'sleep' finished.
+Apr 24 16:11:34 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 24 16:11:35 pop-os gnome-keyring-daemon[2039]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 24 16:11:44 pop-os systemd-logind[745]: System is rebooting.
+Apr 24 16:12:43 pop-os systemd-logind[737]: New seat seat0.
+Apr 24 16:12:43 pop-os systemd-logind[737]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 24 16:12:43 pop-os systemd-logind[737]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 24 16:12:43 pop-os systemd-logind[737]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 24 16:12:43 pop-os systemd-logind[737]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 24 16:12:43 pop-os systemd-logind[737]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 24 16:12:44 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 24 16:12:44 pop-os systemd-logind[737]: New session c1 of user gdm.
+Apr 24 16:12:44 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 24 16:12:47 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 24 16:12:50 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 24 16:12:50 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 24 16:12:58 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 24 16:12:58 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 24 16:12:58 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 24 16:12:58 pop-os systemd-logind[737]: New session 2 of user twarga.
+Apr 24 16:12:58 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 24 16:12:58 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 24 16:13:00 pop-os gnome-keyring-daemon[2059]: The PKCS#11 component was already initialized
+Apr 24 16:13:00 pop-os gnome-keyring-daemon[2059]: The Secret Service was already initialized
+Apr 24 16:13:00 pop-os gnome-keyring-daemon[2059]: The SSH agent was already initialized
+Apr 24 16:13:01 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.82 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 24 16:13:08 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 24 16:13:08 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 24 16:13:08 pop-os systemd-logind[737]: Session c1 logged out. Waiting for processes to exit.
+Apr 24 16:13:08 pop-os systemd-logind[737]: Removed session c1.
+Apr 24 16:13:18 pop-os systemd: pam_unix(systemd-user:session): session closed for user gdm
+Apr 24 16:13:35 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 16:13:35 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 16:14:09 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 16:14:09 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 16:14:22 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 16:14:22 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 16:17:01 pop-os CRON[8376]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 24 16:17:01 pop-os CRON[8376]: pam_unix(cron:session): session closed for user root
+Apr 24 16:50:37 pop-os systemd-logind[737]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 24 17:13:04 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 24 17:17:01 pop-os CRON[13712]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 24 17:17:01 pop-os CRON[13712]: pam_unix(cron:session): session closed for user root
+Apr 24 18:13:04 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 24 18:17:01 pop-os CRON[15577]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 24 18:17:01 pop-os CRON[15577]: pam_unix(cron:session): session closed for user root
+Apr 24 18:23:27 pop-os systemd-logind[737]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 24 19:13:04 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 24 19:17:01 pop-os CRON[23651]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 24 19:17:01 pop-os CRON[23651]: pam_unix(cron:session): session closed for user root
+Apr 24 20:13:04 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 24 20:17:01 pop-os CRON[28665]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 24 20:17:01 pop-os CRON[28665]: pam_unix(cron:session): session closed for user root
+Apr 24 20:38:16 pop-os systemd-logind[737]: Lid closed.
+Apr 24 20:38:16 pop-os systemd-logind[737]: Suspending...
+Apr 24 20:54:27 pop-os systemd-logind[737]: Lid opened.
+Apr 24 20:54:28 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 24 20:54:31 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 24 20:55:29 pop-os systemd-logind[737]: Lid closed.
+Apr 24 20:55:29 pop-os systemd-logind[737]: Suspending...
+Apr 24 22:16:42 pop-os systemd-logind[737]: Lid opened.
+Apr 24 22:16:43 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 24 22:16:46 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 24 22:16:57 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 24 22:17:09 pop-os CRON[31130]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 24 22:17:09 pop-os CRON[31130]: pam_unix(cron:session): session closed for user root
+Apr 24 22:18:24 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 24 22:18:24 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 24 22:32:30 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 24 22:33:38 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 24 22:37:43 pop-os systemd-logind[737]: Lid closed.
+Apr 24 22:37:43 pop-os systemd-logind[737]: Suspending...
+Apr 24 22:37:48 pop-os systemd-logind[737]: Delay lock is active (UID 1000/twarga, PID 2337/gnome-shell) but inhibitor timeout is reached.
+Apr 25 03:52:38 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 25 03:52:46 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 25 03:53:06 pop-os systemd-logind[737]: Suspending...
+Apr 25 03:53:11 pop-os systemd-logind[737]: Delay lock is active (UID 1000/twarga, PID 2337/gnome-shell) but inhibitor timeout is reached.
+Apr 25 08:51:18 pop-os systemd-logind[737]: Lid opened.
+Apr 25 08:51:19 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 25 08:51:22 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 25 08:52:19 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 25 08:52:21 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 25 09:17:01 pop-os CRON[34770]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 25 09:17:01 pop-os CRON[34770]: pam_unix(cron:session): session closed for user root
+Apr 25 09:35:07 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Documents ; USER=root ; COMMAND=/usr/bin/cp -rf TEST.pdf /sda1
+Apr 25 09:35:07 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 25 09:35:07 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 25 09:36:38 pop-os polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:twarga to gain TEMPORARY authorization for action org.gtk.vfs.file-operations-helper for unix-process:35523:6264116 [/bin/sh -c pkexec /usr/libexec/gvfsd-admin "$@" --address $DBUS_SESSION_BUS_ADDRESS --dir $XDG_RUNTIME_DIR gvfsd-admin --spawner :1.6 /org/gtk/gvfs/exec_spaw/5] (owned by unix-user:twarga)
+Apr 25 09:36:38 pop-os pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Apr 25 09:36:38 pop-os pkexec[35524]: twarga: Executing command [USER=root] [TTY=unknown] [CWD=/home/twarga] [COMMAND=/usr/libexec/gvfsd-admin --spawner :1.6 /org/gtk/gvfs/exec_spaw/5 --address unix:path=/run/user/1000/bus --dir /run/user/1000]
+Apr 25 09:36:41 pop-os polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:twarga to gain TEMPORARY authorization for action org.gtk.vfs.file-operations for unix-process:33975:5998701 [/usr/bin/nautilus --gapplication-service] (owned by unix-user:twarga)
+Apr 25 09:36:46 pop-os polkitd(authority=local): Operator of unix-session:2 FAILED to authenticate to gain authorization for action org.gtk.vfs.file-operations for unix-process:34221:6003672 [/usr/lib/libreoffice/program/soffice.bin --writer file:///media/twarga/UUI/ENTRE/%D9%86%D9%85%D9%88%D8%AF%D8%AC%20%D8%AE%D8%B7%D8%A9%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A9%202023%20(1)%20INDH%2022.docx] (owned by unix-user:twarga)
+Apr 25 09:36:48 pop-os polkitd(authority=local): message repeated 2 times: [ Operator of unix-session:2 FAILED to authenticate to gain authorization for action org.gtk.vfs.file-operations for unix-process:34221:6003672 [/usr/lib/libreoffice/program/soffice.bin --writer file:///media/twarga/UUI/ENTRE/%D9%86%D9%85%D9%88%D8%AF%D8%AC%20%D8%AE%D8%B7%D8%A9%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A9%202023%20(1)%20INDH%2022.docx] (owned by unix-user:twarga)]
+Apr 25 09:41:53 pop-os polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:twarga to gain TEMPORARY authorization for action org.gtk.vfs.file-operations for unix-process:33975:5998701 [/usr/bin/nautilus --gapplication-service] (owned by unix-user:twarga)
+Apr 25 09:42:36 pop-os systemd-logind[737]: Lid closed.
+Apr 25 09:42:36 pop-os systemd-logind[737]: Suspending...
+Apr 25 09:43:51 pop-os systemd-logind[737]: Lid opened.
+Apr 25 09:43:52 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 25 09:43:54 pop-os systemd-logind[737]: Lid closed.
+Apr 25 09:44:19 pop-os systemd-logind[737]: Suspending...
+Apr 25 09:44:28 pop-os systemd-logind[737]: Lid opened.
+Apr 25 09:44:29 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 25 09:44:30 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 25 09:50:33 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 25 09:51:53 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 09:51:53 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 09:56:38 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 09:56:38 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 10:17:01 pop-os CRON[38268]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 25 10:17:01 pop-os CRON[38268]: pam_unix(cron:session): session closed for user root
+Apr 25 10:20:18 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 10:20:18 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 10:50:12 pop-os systemd-logind[737]: Lid closed.
+Apr 25 10:50:12 pop-os systemd-logind[737]: Suspending...
+Apr 25 15:05:02 pop-os systemd-logind[737]: Lid opened.
+Apr 25 15:05:03 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 25 15:05:06 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 25 15:05:09 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 25 15:07:22 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 15:07:22 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 15:17:01 pop-os CRON[42356]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 25 15:17:01 pop-os CRON[42356]: pam_unix(cron:session): session closed for user root
+Apr 25 16:17:01 pop-os CRON[43050]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 25 16:17:01 pop-os CRON[43050]: pam_unix(cron:session): session closed for user root
+Apr 25 16:24:15 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 25 17:17:01 pop-os CRON[43678]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 25 17:17:01 pop-os CRON[43678]: pam_unix(cron:session): session closed for user root
+Apr 25 17:36:51 pop-os systemd-logind[737]: Lid closed.
+Apr 25 17:36:52 pop-os systemd-logind[737]: Operation 'sleep' finished.
+Apr 25 17:37:00 pop-os gnome-keyring-daemon[2059]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 25 17:37:00 pop-os systemd-logind[737]: Suspending...
+Apr 25 17:37:11 pop-os systemd-logind[737]: Lid opened.
+Apr 25 20:26:01 pop-os systemd-logind[754]: New seat seat0.
+Apr 25 20:26:01 pop-os systemd-logind[754]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 25 20:26:01 pop-os systemd-logind[754]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 25 20:26:01 pop-os systemd-logind[754]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 25 20:26:01 pop-os systemd-logind[754]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 25 20:26:01 pop-os systemd-logind[754]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 25 20:26:02 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 25 20:26:02 pop-os systemd-logind[754]: New session c1 of user gdm.
+Apr 25 20:26:02 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 25 20:26:05 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 25 20:26:08 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 25 20:26:08 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 25 20:26:33 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 25 20:26:33 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 25 20:26:33 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 25 20:26:33 pop-os systemd-logind[754]: New session 2 of user twarga.
+Apr 25 20:26:33 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 25 20:26:33 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 25 20:26:35 pop-os gnome-keyring-daemon[2147]: The PKCS#11 component was already initialized
+Apr 25 20:26:35 pop-os gnome-keyring-daemon[2147]: The SSH agent was already initialized
+Apr 25 20:26:35 pop-os gnome-keyring-daemon[2147]: The Secret Service was already initialized
+Apr 25 20:26:36 pop-os gnome-keyring-daemon[2147]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 25 20:26:36 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.82 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 25 20:26:42 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 25 20:26:43 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 25 20:26:43 pop-os systemd-logind[754]: Session c1 logged out. Waiting for processes to exit.
+Apr 25 20:26:43 pop-os systemd-logind[754]: Removed session c1.
+Apr 25 20:27:18 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 20:27:18 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 20:27:51 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 20:27:51 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 20:28:09 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 20:28:09 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 20:28:21 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 25 20:28:21 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 25 20:32:51 pop-os systemd-logind[754]: Lid closed.
+Apr 25 20:32:51 pop-os systemd-logind[754]: Suspending...
+Apr 25 20:32:56 pop-os systemd-logind[754]: Delay lock is active (UID 1000/twarga, PID 2371/gnome-shell) but inhibitor timeout is reached.
+Apr 26 13:50:49 pop-os systemd-logind[754]: Lid opened.
+Apr 26 13:50:49 pop-os systemd-logind[754]: Operation 'sleep' finished.
+Apr 26 13:55:28 pop-os systemd-logind[754]: System is rebooting.
+Apr 26 13:56:26 pop-os systemd-logind[722]: New seat seat0.
+Apr 26 13:56:26 pop-os systemd-logind[722]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 26 13:56:26 pop-os systemd-logind[722]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 26 13:56:26 pop-os systemd-logind[722]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 26 13:56:26 pop-os systemd-logind[722]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 26 13:56:26 pop-os systemd-logind[722]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 26 13:56:27 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 26 13:56:27 pop-os systemd-logind[722]: New session c1 of user gdm.
+Apr 26 13:56:27 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 26 13:56:30 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 26 13:56:33 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 26 13:56:33 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 26 13:56:43 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 26 13:56:43 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 26 13:56:43 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 26 13:56:43 pop-os systemd-logind[722]: New session 2 of user twarga.
+Apr 26 13:56:43 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 26 13:56:43 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 26 13:56:45 pop-os gnome-keyring-daemon[1458]: The PKCS#11 component was already initialized
+Apr 26 13:56:45 pop-os gnome-keyring-daemon[1458]: The Secret Service was already initialized
+Apr 26 13:56:45 pop-os gnome-keyring-daemon[1458]: The SSH agent was already initialized
+Apr 26 13:56:46 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.81 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 26 13:56:52 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 26 13:56:52 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 26 13:56:52 pop-os systemd-logind[722]: Session c1 logged out. Waiting for processes to exit.
+Apr 26 13:56:52 pop-os systemd-logind[722]: Removed session c1.
+Apr 26 13:58:43 pop-os gnome-keyring-daemon[1458]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 26 14:06:56 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 26 14:06:56 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 26 14:17:01 pop-os CRON[3548]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 26 14:17:01 pop-os CRON[3548]: pam_unix(cron:session): session closed for user root
+Apr 26 14:25:20 pop-os systemd-logind[722]: System is powering down.
+Apr 26 14:39:19 pop-os systemd-logind[771]: New seat seat0.
+Apr 26 14:39:19 pop-os systemd-logind[771]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 26 14:39:19 pop-os systemd-logind[771]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 26 14:39:19 pop-os systemd-logind[771]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 26 14:39:19 pop-os systemd-logind[771]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 26 14:39:19 pop-os systemd-logind[771]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 26 14:39:20 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 26 14:39:20 pop-os systemd-logind[771]: New session c1 of user gdm.
+Apr 26 14:39:20 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 26 14:39:22 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 26 14:39:26 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 26 14:39:26 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 26 14:39:38 pop-os gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=twarga
+Apr 26 14:39:46 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 26 14:39:46 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 26 14:39:46 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 26 14:39:46 pop-os systemd-logind[771]: New session 2 of user twarga.
+Apr 26 14:39:46 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 26 14:39:46 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 26 14:39:48 pop-os gnome-keyring-daemon[2052]: The Secret Service was already initialized
+Apr 26 14:39:48 pop-os gnome-keyring-daemon[2052]: The PKCS#11 component was already initialized
+Apr 26 14:39:48 pop-os gnome-keyring-daemon[2052]: The Secret Service was already initialized
+Apr 26 14:39:48 pop-os gnome-keyring-daemon[2052]: The SSH agent was already initialized
+Apr 26 14:39:49 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.82 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 26 14:39:56 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 26 14:39:56 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 26 14:39:56 pop-os systemd-logind[771]: Session c1 logged out. Waiting for processes to exit.
+Apr 26 14:39:56 pop-os systemd-logind[771]: Removed session c1.
+Apr 26 14:40:57 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 26 14:40:57 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 26 14:54:28 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 26 14:54:28 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 26 15:17:01 pop-os CRON[7078]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 26 15:17:01 pop-os CRON[7078]: pam_unix(cron:session): session closed for user root
+Apr 26 15:36:17 pop-os systemd-logind[771]: Lid closed.
+Apr 26 15:36:17 pop-os systemd-logind[771]: Suspending...
+Apr 26 15:44:03 pop-os systemd-logind[771]: Lid opened.
+Apr 26 15:44:03 pop-os systemd-logind[771]: Operation 'sleep' finished.
+Apr 26 15:44:07 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 26 15:44:10 pop-os gnome-keyring-daemon[2052]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 26 15:45:16 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 26 15:45:16 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 26 15:50:21 pop-os systemd-logind[771]: Lid closed.
+Apr 26 15:50:21 pop-os systemd-logind[771]: Suspending...
+Apr 27 13:14:40 pop-os systemd-logind[771]: Lid opened.
+Apr 27 13:14:40 pop-os systemd-logind[771]: Operation 'sleep' finished.
+Apr 27 13:14:45 pop-os gnome-keyring-daemon[2052]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 27 13:15:12 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 27 13:15:19 pop-os systemd-logind[771]: System is rebooting.
+Apr 27 13:16:21 pop-os systemd-logind[735]: New seat seat0.
+Apr 27 13:16:21 pop-os systemd-logind[735]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 27 13:16:21 pop-os systemd-logind[735]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 27 13:16:21 pop-os systemd-logind[735]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 27 13:16:21 pop-os systemd-logind[735]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 27 13:16:21 pop-os systemd-logind[735]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 27 13:16:22 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 27 13:16:22 pop-os systemd-logind[735]: New session c1 of user gdm.
+Apr 27 13:16:22 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 27 13:16:25 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 27 13:16:28 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 27 13:16:28 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 27 13:16:31 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 27 13:16:31 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 27 13:16:31 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 27 13:16:31 pop-os systemd-logind[735]: New session 2 of user twarga.
+Apr 27 13:16:31 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 27 13:16:32 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 27 13:16:33 pop-os gnome-keyring-daemon[2019]: The PKCS#11 component was already initialized
+Apr 27 13:16:33 pop-os gnome-keyring-daemon[2019]: The Secret Service was already initialized
+Apr 27 13:16:33 pop-os gnome-keyring-daemon[2019]: The SSH agent was already initialized
+Apr 27 13:16:34 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.81 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 27 13:16:41 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 27 13:16:41 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 27 13:16:41 pop-os systemd-logind[735]: Session c1 logged out. Waiting for processes to exit.
+Apr 27 13:16:41 pop-os systemd-logind[735]: Removed session c1.
+Apr 27 13:17:01 pop-os CRON[3498]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 27 13:17:01 pop-os CRON[3498]: pam_unix(cron:session): session closed for user root
+Apr 27 13:17:23 pop-os systemd-logind[735]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 27 13:17:42 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 27 13:17:42 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 27 14:16:38 pop-os gnome-keyring-daemon[2019]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 27 14:17:01 pop-os CRON[7645]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 27 14:17:01 pop-os CRON[7645]: pam_unix(cron:session): session closed for user root
+Apr 27 15:16:38 pop-os gnome-keyring-daemon[2019]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 27 15:17:01 pop-os CRON[10038]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 27 15:17:01 pop-os CRON[10038]: pam_unix(cron:session): session closed for user root
+Apr 27 16:16:39 pop-os gnome-keyring-daemon[2019]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 27 16:17:01 pop-os CRON[16302]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 27 16:17:01 pop-os CRON[16302]: pam_unix(cron:session): session closed for user root
+Apr 27 17:16:38 pop-os gnome-keyring-daemon[2019]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 27 17:17:01 pop-os CRON[18995]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 27 17:17:01 pop-os CRON[18995]: pam_unix(cron:session): session closed for user root
+Apr 27 18:16:38 pop-os gnome-keyring-daemon[2019]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 27 18:17:01 pop-os CRON[22123]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 27 18:17:01 pop-os CRON[22123]: pam_unix(cron:session): session closed for user root
+Apr 27 18:32:39 pop-os systemd-logind[735]: System is powering down.
+Apr 28 16:02:51 pop-os systemd-logind[701]: New seat seat0.
+Apr 28 16:02:51 pop-os systemd-logind[701]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 28 16:02:51 pop-os systemd-logind[701]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 28 16:02:51 pop-os systemd-logind[701]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 28 16:02:51 pop-os systemd-logind[701]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 28 16:02:51 pop-os systemd-logind[701]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 28 16:02:53 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 28 16:02:53 pop-os systemd-logind[701]: New session c1 of user gdm.
+Apr 28 16:02:53 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 28 16:02:55 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 28 16:02:59 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 28 16:02:59 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 28 16:04:17 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 28 16:04:17 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 28 16:04:17 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 28 16:04:17 pop-os systemd-logind[701]: New session 2 of user twarga.
+Apr 28 16:04:17 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 28 16:04:17 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 28 16:04:18 pop-os gnome-keyring-daemon[2174]: The PKCS#11 component was already initialized
+Apr 28 16:04:18 pop-os gnome-keyring-daemon[2174]: The Secret Service was already initialized
+Apr 28 16:04:18 pop-os gnome-keyring-daemon[2174]: The SSH agent was already initialized
+Apr 28 16:04:19 pop-os gnome-keyring-daemon[2174]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 28 16:04:19 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.85 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 28 16:04:26 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 28 16:04:26 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 28 16:04:26 pop-os systemd-logind[701]: Session c1 logged out. Waiting for processes to exit.
+Apr 28 16:04:26 pop-os systemd-logind[701]: Removed session c1.
+Apr 28 16:04:41 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 28 16:04:41 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 28 16:05:27 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 28 16:05:27 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 28 16:17:01 pop-os CRON[5640]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 28 16:17:01 pop-os CRON[5640]: pam_unix(cron:session): session closed for user root
+Apr 28 16:53:34 pop-os systemd-logind[701]: Operation 'sleep' finished.
+Apr 28 16:53:39 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 28 16:54:30 pop-os systemd-logind[701]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 28 16:54:48 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 28 16:54:48 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 28 17:12:13 pop-os gnome-keyring-daemon[2174]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 28 17:17:01 pop-os CRON[8017]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 28 17:17:01 pop-os CRON[8017]: pam_unix(cron:session): session closed for user root
+Apr 28 18:12:13 pop-os gnome-keyring-daemon[2174]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 28 18:17:01 pop-os CRON[11880]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 28 18:17:01 pop-os CRON[11880]: pam_unix(cron:session): session closed for user root
+Apr 28 18:23:49 pop-os systemd-logind[701]: Lid closed.
+Apr 28 18:23:49 pop-os systemd-logind[701]: Suspending...
+Apr 28 18:25:03 pop-os systemd-logind[701]: Lid opened.
+Apr 28 18:25:04 pop-os systemd-logind[701]: Operation 'sleep' finished.
+Apr 28 18:25:09 pop-os systemd-logind[701]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 28 18:25:24 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 28 18:26:21 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 28 18:26:21 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 28 18:54:55 pop-os polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:twarga to gain ONE-SHOT authorization for action org.freedesktop.policykit.exec for unix-process:13567:1032791 [com.github.donadigo.eddy /home/twarga/Downloads/Packet_Tracer821_amd64_signed.deb] (owned by unix-user:twarga)
+Apr 28 18:54:55 pop-os pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Apr 28 18:54:55 pop-os pkexec[13598]: twarga: Executing command [USER=root] [TTY=unknown] [CWD=/home/twarga] [COMMAND=/usr/bin/apt install -y /home/twarga/Downloads/Packet_Tracer821_amd64_signed.deb]
+Apr 28 19:13:28 pop-os gnome-keyring-daemon[2174]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 28 19:14:36 pop-os systemd-logind[701]: Lid closed.
+Apr 28 19:14:36 pop-os systemd-logind[701]: Suspending...
+Apr 29 12:11:46 pop-os systemd-logind[701]: Lid opened.
+Apr 29 12:11:47 pop-os systemd-logind[701]: Lid closed.
+Apr 29 12:11:48 pop-os systemd-logind[701]: Operation 'sleep' finished.
+Apr 29 12:11:55 pop-os gnome-keyring-daemon[2174]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 29 12:12:15 pop-os systemd-logind[701]: Suspending...
+Apr 29 16:02:09 pop-os systemd-logind[701]: Lid opened.
+Apr 29 16:02:11 pop-os systemd-logind[701]: Operation 'sleep' finished.
+Apr 29 16:03:48 pop-os gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=twarga
+Apr 29 16:04:02 pop-os systemd-logind[701]: Power key pressed.
+Apr 29 16:04:45 pop-os systemd-logind[734]: New seat seat0.
+Apr 29 16:04:45 pop-os systemd-logind[734]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 29 16:04:45 pop-os systemd-logind[734]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 29 16:04:45 pop-os systemd-logind[734]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 29 16:04:45 pop-os systemd-logind[734]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 29 16:04:45 pop-os systemd-logind[734]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 29 16:04:46 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 29 16:04:46 pop-os systemd-logind[734]: New session c1 of user gdm.
+Apr 29 16:04:46 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 29 16:04:49 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 29 16:04:52 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 29 16:04:52 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 29 16:07:12 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 29 16:07:12 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 29 16:07:12 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 29 16:07:12 pop-os systemd-logind[734]: New session 2 of user twarga.
+Apr 29 16:07:12 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 29 16:07:12 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 29 16:07:14 pop-os gnome-keyring-daemon[1513]: The PKCS#11 component was already initialized
+Apr 29 16:07:14 pop-os gnome-keyring-daemon[1513]: The Secret Service was already initialized
+Apr 29 16:07:14 pop-os gnome-keyring-daemon[1513]: The SSH agent was already initialized
+Apr 29 16:07:15 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.84 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 29 16:07:20 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 29 16:07:21 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 29 16:07:21 pop-os systemd-logind[734]: Session c1 logged out. Waiting for processes to exit.
+Apr 29 16:07:21 pop-os systemd-logind[734]: Removed session c1.
+Apr 29 16:07:58 pop-os polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:twarga to gain ONE-SHOT authorization for action org.freedesktop.policykit.exec for unix-process:2969:19778 [com.github.donadigo.eddy /home/twarga/Downloads/Packet_Tracer821_amd64_signed.deb] (owned by unix-user:twarga)
+Apr 29 16:07:58 pop-os pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Apr 29 16:07:58 pop-os pkexec[2996]: twarga: Executing command [USER=root] [TTY=unknown] [CWD=/home/twarga] [COMMAND=/usr/bin/apt install -y /home/twarga/Downloads/Packet_Tracer821_amd64_signed.deb]
+Apr 29 16:08:05 pop-os polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:twarga to gain ONE-SHOT authorization for action org.freedesktop.policykit.exec for unix-process:2969:19778 [com.github.donadigo.eddy /home/twarga/Downloads/Packet_Tracer821_amd64_signed.deb] (owned by unix-user:twarga)
+Apr 29 16:08:05 pop-os pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Apr 29 16:08:05 pop-os pkexec[3028]: twarga: Executing command [USER=root] [TTY=unknown] [CWD=/home/twarga] [COMMAND=/usr/bin/apt install -y /home/twarga/Downloads/Packet_Tracer821_amd64_signed.deb]
+Apr 29 16:08:31 pop-os gnome-keyring-daemon[1513]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 29 16:09:48 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 29 16:09:48 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 29 16:11:37 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Downloads ; USER=root ; COMMAND=/usr/bin/apt install ./Packet_Tracer821_amd64_signed.deb
+Apr 29 16:11:37 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 29 16:11:37 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:12:35 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Downloads ; USER=root ; COMMAND=/usr/bin/dpkg -i Packet_Tracer821_amd64_signed.deb
+Apr 29 16:12:35 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 29 16:13:18 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:00 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Downloads ; USER=root ; COMMAND=/usr/bin/apt install -f
+Apr 29 16:15:00 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Apr 29 16:15:03 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/echo -e '[Desktop Entry]\\nType=Application\\nExec=/opt/pt/packettracer %f\\nName=Packet Tracer 8.2.1\\nIcon=/opt/pt/art/app.png\\nTerminal=false\\nStartupNotify=true\\nMimeType=application/x-pkt;application/x-pka;application/x-pkz;application/x-pks;application/x-pksz;'
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:03 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/echo -e '[Desktop Entry]\\nType=Application\\nExec=/opt/pt/packettracer -uri=%u\\nName=Packet Tracer 8.2.1\\nIcon=/opt/pt/art/app.png\\nTerminal=false\\nStartupNotify=true\\nNoDisplay=true\\nMimeType=x-scheme-handler/pttp;'
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:03 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/xdg-desktop-menu install /usr/share/applications/cisco-pt821.desktop
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:03 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/xdg-desktop-menu install /usr/share/applications/cisco-ptsa821.desktop
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:03 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/update-mime-database /usr/share/mime
+Apr 29 16:15:03 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:07 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/gtk-update-icon-cache --force /usr/share/icons/gnome
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:07 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/xdg-mime default cisco-ptsa.desktop x-scheme-handler/pttp
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:07 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/ln -sf /opt/pt/packettracer /usr/local/bin/packettracer
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:07 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/chown root:root /opt/pt/bin/updatepttp
+Apr 29 16:15:07 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:08 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:08 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/chmod 4755 /opt/pt/bin/updatepttp
+Apr 29 16:15:08 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:08 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:08 pop-os sudo:     root : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/echo -e '\\n# /etc/profile: system-wide .profile file for the Bourne shell (sh(1))\\n# and Bourne compatible shells (bash(1), ksh(1), ash(1), ...).\\n\\nif [ "${PS1-}" ]; then\\n  if [ "${BASH-}" ] && [ "$BASH" != "/bin/sh" ]; then\\n    # The file bash.bashrc already sets the default PS1.\\n    # PS1=\'\\h:\\w\\$ \'\\n    if [ -f /etc/bash.bashrc ]; then\\n      . /etc/bash.bashrc\\n    fi\\n  else\\n    if [ "$(id -u)" -eq 0 ]; then\\n      PS1=\'# \'\\n    else\\n      PS1=\'$ \'\\n    fi\\n  fi\\nfi\\n\\nif [ -d /etc/profile.d ]; then\\n  for i in /etc/profile.d/*.sh; do\\n    if [ -r $i ]; then\\n      . $i\\n    fi\\n  done\\n  unset i\\nfi\\nPT8HOME=/opt/pt\\nexport PT8HOME'
+Apr 29 16:15:08 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:15:08 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:08 pop-os sudo: pam_unix(sudo:session): session closed for user root
+Apr 29 16:15:10 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 29 16:15:10 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 29 16:17:01 pop-os CRON[6219]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 16:17:01 pop-os CRON[6219]: pam_unix(cron:session): session closed for user root
+Apr 29 16:21:45 pop-os systemd-logind[734]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 29 17:06:52 pop-os systemd-logind[734]: Lid closed.
+Apr 29 17:06:52 pop-os systemd-logind[734]: Suspending...
+Apr 29 17:06:57 pop-os systemd-logind[734]: Delay lock is active (UID 1000/twarga, PID 1725/gnome-shell) but inhibitor timeout is reached.
+Apr 29 17:28:57 pop-os systemd-logind[734]: Lid opened.
+Apr 29 17:28:58 pop-os systemd-logind[734]: Operation 'sleep' finished.
+Apr 29 17:29:04 pop-os gnome-keyring-daemon[1513]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 29 17:29:11 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 29 17:30:19 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 29 17:30:19 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 29 18:06:59 pop-os systemd-logind[734]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 29 18:17:02 pop-os CRON[19644]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 18:17:02 pop-os CRON[19644]: pam_unix(cron:session): session closed for user root
+Apr 29 18:29:15 pop-os gnome-keyring-daemon[1513]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 29 19:17:01 pop-os CRON[23297]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 29 19:17:01 pop-os CRON[23297]: pam_unix(cron:session): session closed for user root
+Apr 29 19:29:15 pop-os gnome-keyring-daemon[1513]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 29 19:55:37 pop-os systemd-logind[734]: System is powering down.
+Apr 30 11:23:03 pop-os systemd-logind[736]: New seat seat0.
+Apr 30 11:23:03 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event3 (Power Button)
+Apr 30 11:23:03 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event1 (Power Button)
+Apr 30 11:23:03 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Apr 30 11:23:03 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Apr 30 11:23:03 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Apr 30 11:23:04 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 30 11:23:04 pop-os systemd-logind[736]: New session c1 of user gdm.
+Apr 30 11:23:04 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+Apr 30 11:23:07 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 30 11:23:10 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 30 11:23:10 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+Apr 30 11:25:46 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+Apr 30 11:25:46 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+Apr 30 11:25:46 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 30 11:25:46 pop-os systemd-logind[736]: New session 2 of user twarga.
+Apr 30 11:25:46 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+Apr 30 11:25:46 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Apr 30 11:25:48 pop-os gnome-keyring-daemon[2193]: The PKCS#11 component was already initialized
+Apr 30 11:25:48 pop-os gnome-keyring-daemon[2193]: The Secret Service was already initialized
+Apr 30 11:25:48 pop-os gnome-keyring-daemon[2193]: The SSH agent was already initialized
+Apr 30 11:25:49 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 30 11:25:49 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.85 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Apr 30 11:25:54 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Apr 30 11:25:54 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+Apr 30 11:25:54 pop-os systemd-logind[736]: Session c1 logged out. Waiting for processes to exit.
+Apr 30 11:25:54 pop-os systemd-logind[736]: Removed session c1.
+Apr 30 11:26:11 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 30 11:26:11 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 30 11:26:29 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+Apr 30 11:26:56 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 30 11:26:56 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 30 12:17:01 pop-os CRON[9636]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 12:17:01 pop-os CRON[9636]: pam_unix(cron:session): session closed for user root
+Apr 30 12:25:52 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 30 13:17:01 pop-os CRON[16000]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 13:17:01 pop-os CRON[16000]: pam_unix(cron:session): session closed for user root
+Apr 30 13:25:52 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 30 13:45:00 pop-os systemd-logind[736]: Lid closed.
+Apr 30 13:45:00 pop-os systemd-logind[736]: Suspending...
+Apr 30 17:00:18 pop-os systemd-logind[736]: Lid opened.
+Apr 30 17:00:19 pop-os systemd-logind[736]: Operation 'sleep' finished.
+Apr 30 17:00:24 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 30 17:01:35 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Apr 30 17:01:35 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Apr 30 17:02:04 pop-os gdm-password]: gkr-pam: unlocked login keyring
+Apr 30 17:08:02 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event17 (联想 thinkplus-XT92 (AVRCP))
+Apr 30 17:17:01 pop-os CRON[20101]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 17:17:01 pop-os CRON[20101]: pam_unix(cron:session): session closed for user root
+Apr 30 18:17:01 pop-os CRON[22148]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 18:17:01 pop-os CRON[22148]: pam_unix(cron:session): session closed for user root
+Apr 30 18:41:03 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 30 19:17:01 pop-os CRON[24271]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 19:17:01 pop-os CRON[24271]: pam_unix(cron:session): session closed for user root
+Apr 30 19:41:03 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 30 20:17:01 pop-os CRON[30972]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 20:17:01 pop-os CRON[30972]: pam_unix(cron:session): session closed for user root
+Apr 30 20:30:55 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/5, but it's already registered
+Apr 30 20:41:03 pop-os gnome-keyring-daemon[2193]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 30 20:57:30 pop-os systemd-logind[736]: System is powering down.
+May  1 17:07:49 pop-os systemd-logind[719]: New seat seat0.
+May  1 17:07:49 pop-os systemd-logind[719]: Watching system buttons on /dev/input/event3 (Power Button)
+May  1 17:07:49 pop-os systemd-logind[719]: Watching system buttons on /dev/input/event1 (Power Button)
+May  1 17:07:49 pop-os systemd-logind[719]: Watching system buttons on /dev/input/event0 (Lid Switch)
+May  1 17:07:49 pop-os systemd-logind[719]: Watching system buttons on /dev/input/event2 (Sleep Button)
+May  1 17:07:49 pop-os systemd-logind[719]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+May  1 17:07:50 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+May  1 17:07:50 pop-os systemd-logind[719]: New session c1 of user gdm.
+May  1 17:07:50 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+May  1 17:07:53 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  1 17:07:56 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+May  1 17:07:56 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+May  1 17:08:02 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+May  1 17:08:02 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+May  1 17:08:02 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+May  1 17:08:02 pop-os systemd-logind[719]: New session 2 of user twarga.
+May  1 17:08:02 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+May  1 17:08:02 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+May  1 17:08:04 pop-os gnome-keyring-daemon[2022]: The PKCS#11 component was already initialized
+May  1 17:08:04 pop-os gnome-keyring-daemon[2022]: The SSH agent was already initialized
+May  1 17:08:04 pop-os gnome-keyring-daemon[2022]: The Secret Service was already initialized
+May  1 17:08:05 pop-os gnome-keyring-daemon[2022]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  1 17:08:05 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.82 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  1 17:08:11 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+May  1 17:08:11 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+May  1 17:08:11 pop-os systemd-logind[719]: Session c1 logged out. Waiting for processes to exit.
+May  1 17:08:11 pop-os systemd-logind[719]: Removed session c1.
+May  1 17:08:18 pop-os gnome-keyring-daemon[2022]: asked to register item /org/freedesktop/secrets/collection/login/5, but it's already registered
+May  1 17:08:29 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 17:08:29 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 17:09:12 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 17:09:12 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 17:17:01 pop-os CRON[5976]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 17:17:01 pop-os CRON[5976]: pam_unix(cron:session): session closed for user root
+May  1 17:18:47 pop-os systemd-logind[719]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+May  1 18:08:08 pop-os gnome-keyring-daemon[2022]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  1 18:17:01 pop-os CRON[10321]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 18:17:01 pop-os CRON[10321]: pam_unix(cron:session): session closed for user root
+May  1 18:37:01 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day 1 ; USER=root ; COMMAND=/usr/bin/nano myfscirpt.sh
+May  1 18:37:01 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 18:37:37 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 18:37:55 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day 1 ; USER=root ; COMMAND=/usr/bin/chmod +x myfscirpt.sh
+May  1 18:37:55 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 18:37:55 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 18:38:33 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day 1 ; USER=root ; COMMAND=/usr/bin/nano myfscirpt.sh
+May  1 18:38:33 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 18:38:39 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 18:38:59 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day 1 ; USER=root ; COMMAND=/usr/bin/nano myfscirpt.sh
+May  1 18:38:59 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 18:39:06 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 18:42:59 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day 1 ; USER=root ; COMMAND=/usr/bin/nano myfscirpt.sh
+May  1 18:42:59 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 18:44:30 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 18:45:58 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day 1 ; USER=root ; COMMAND=/usr/bin/nano myfscirpt.sh
+May  1 18:45:58 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 18:46:22 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 18:55:49 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day 1 ; USER=root ; COMMAND=/usr/bin/chmod +x variables.sh
+May  1 18:55:49 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 18:55:49 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 19:08:08 pop-os gnome-keyring-daemon[2022]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  1 19:17:01 pop-os CRON[34822]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 19:17:01 pop-os CRON[34822]: pam_unix(cron:session): session closed for user root
+May  1 19:18:43 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Documents/GitHub/Bash_in_7days/Day 1 ; USER=root ; COMMAND=/usr/bin/apt install htop
+May  1 19:18:43 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 19:18:50 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 19:18:53 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 19:18:53 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 19:22:19 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Documents/GitHub/Bash_in_7days/Day 1 ; USER=root ; COMMAND=/usr/bin/chmod +x if_Statments.sh
+May  1 19:22:19 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 19:22:19 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 19:40:26 pop-os sudo:   twarga : TTY=pts/1 ; PWD=/home/twarga ; USER=root ; COMMAND=/usr/bin/apt remove htop
+May  1 19:40:26 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 19:40:31 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 19:40:33 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 19:40:33 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 19:50:25 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Documents/GitHub/Bash_in_7days/Day 1 ; USER=root ; COMMAND=/usr/bin/apt update
+May  1 19:50:25 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 19:50:38 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 19:50:38 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Documents/GitHub/Bash_in_7days/Day 1 ; USER=root ; COMMAND=/usr/bin/apt install -y htop
+May  1 19:50:38 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  1 19:50:39 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 19:50:39 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 19:52:00 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  1 19:52:03 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 19:52:03 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 19:52:14 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 19:52:14 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 19:52:28 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 19:52:28 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 19:52:40 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  1 19:52:40 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  1 20:08:08 pop-os gnome-keyring-daemon[2022]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  1 20:17:01 pop-os CRON[65416]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 20:17:01 pop-os CRON[65416]: pam_unix(cron:session): session closed for user root
+May  1 20:56:09 pop-os systemd-logind[719]: System is powering down.
+May  2 13:08:35 pop-os systemd-logind[715]: New seat seat0.
+May  2 13:08:35 pop-os systemd-logind[715]: Watching system buttons on /dev/input/event3 (Power Button)
+May  2 13:08:35 pop-os systemd-logind[715]: Watching system buttons on /dev/input/event1 (Power Button)
+May  2 13:08:35 pop-os systemd-logind[715]: Watching system buttons on /dev/input/event0 (Lid Switch)
+May  2 13:08:35 pop-os systemd-logind[715]: Watching system buttons on /dev/input/event2 (Sleep Button)
+May  2 13:08:35 pop-os systemd-logind[715]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+May  2 13:08:36 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+May  2 13:08:36 pop-os systemd-logind[715]: New session c1 of user gdm.
+May  2 13:08:36 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+May  2 13:08:39 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  2 13:08:42 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+May  2 13:08:42 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+May  2 13:08:45 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+May  2 13:08:45 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+May  2 13:08:45 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+May  2 13:08:45 pop-os systemd-logind[715]: New session 2 of user twarga.
+May  2 13:08:45 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+May  2 13:08:45 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+May  2 13:08:47 pop-os gnome-keyring-daemon[1977]: The PKCS#11 component was already initialized
+May  2 13:08:47 pop-os gnome-keyring-daemon[1977]: The Secret Service was already initialized
+May  2 13:08:47 pop-os gnome-keyring-daemon[1977]: The SSH agent was already initialized
+May  2 13:08:48 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.81 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  2 13:08:48 pop-os gnome-keyring-daemon[1977]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  2 13:08:54 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+May  2 13:08:54 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+May  2 13:08:54 pop-os systemd-logind[715]: Session c1 logged out. Waiting for processes to exit.
+May  2 13:08:54 pop-os systemd-logind[715]: Removed session c1.
+May  2 13:09:11 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 13:09:11 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 13:09:55 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 13:09:55 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 13:17:01 pop-os CRON[4985]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  2 13:17:01 pop-os CRON[4985]: pam_unix(cron:session): session closed for user root
+May  2 13:36:32 pop-os systemd-logind[715]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+May  2 14:08:52 pop-os gnome-keyring-daemon[1977]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  2 14:17:01 pop-os CRON[8260]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  2 14:17:01 pop-os CRON[8260]: pam_unix(cron:session): session closed for user root
+May  2 14:44:28 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Downloads/anki-2.1.62-linux-qt6 ; USER=root ; COMMAND=/usr/bin/chmod +x install.sh
+May  2 14:44:28 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 14:44:28 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 14:44:39 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Downloads/anki-2.1.62-linux-qt6 ; USER=root ; COMMAND=./install.sh
+May  2 14:44:39 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 14:44:45 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 15:08:52 pop-os gnome-keyring-daemon[1977]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  2 15:17:01 pop-os CRON[13733]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  2 15:17:01 pop-os CRON[13733]: pam_unix(cron:session): session closed for user root
+May  2 16:08:52 pop-os gnome-keyring-daemon[1977]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  2 16:17:01 pop-os CRON[16069]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  2 16:17:01 pop-os CRON[16069]: pam_unix(cron:session): session closed for user root
+May  2 17:08:52 pop-os gnome-keyring-daemon[1977]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  2 17:17:01 pop-os CRON[18238]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  2 17:17:01 pop-os CRON[18238]: pam_unix(cron:session): session closed for user root
+May  2 18:06:20 pop-os gnome-keyring-daemon[1977]: asked to register item /org/freedesktop/secrets/collection/login/5, but it's already registered
+May  2 18:08:25 pop-os systemd-logind[715]: System is powering down.
+May  2 18:09:29 pop-os systemd-logind[726]: New seat seat0.
+May  2 18:09:29 pop-os systemd-logind[726]: Watching system buttons on /dev/input/event3 (Power Button)
+May  2 18:09:29 pop-os systemd-logind[726]: Watching system buttons on /dev/input/event1 (Power Button)
+May  2 18:09:29 pop-os systemd-logind[726]: Watching system buttons on /dev/input/event0 (Lid Switch)
+May  2 18:09:29 pop-os systemd-logind[726]: Watching system buttons on /dev/input/event2 (Sleep Button)
+May  2 18:09:29 pop-os systemd-logind[726]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+May  2 18:09:30 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+May  2 18:09:30 pop-os systemd-logind[726]: New session c1 of user gdm.
+May  2 18:09:30 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+May  2 18:09:32 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  2 18:09:33 pop-os systemd-logind[726]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+May  2 18:09:35 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+May  2 18:09:35 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+May  2 18:09:43 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+May  2 18:09:43 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+May  2 18:09:43 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+May  2 18:09:43 pop-os systemd-logind[726]: New session 2 of user twarga.
+May  2 18:09:43 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+May  2 18:09:43 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+May  2 18:09:45 pop-os gnome-keyring-daemon[2033]: The PKCS#11 component was already initialized
+May  2 18:09:45 pop-os gnome-keyring-daemon[2033]: The Secret Service was already initialized
+May  2 18:09:45 pop-os gnome-keyring-daemon[2033]: The SSH agent was already initialized
+May  2 18:09:46 pop-os gnome-keyring-daemon[2033]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  2 18:09:46 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.81 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  2 18:09:47 pop-os systemd-logind[726]: Watching system buttons on /dev/input/event16 (联想 thinkplus-XT92 (AVRCP))
+May  2 18:09:52 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+May  2 18:09:52 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+May  2 18:09:52 pop-os systemd-logind[726]: Session c1 logged out. Waiting for processes to exit.
+May  2 18:09:52 pop-os systemd-logind[726]: Removed session c1.
+May  2 18:10:18 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:10:18 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:10:55 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:10:55 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:11:09 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:11:09 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:11:24 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:11:24 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:17:01 pop-os CRON[8018]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  2 18:17:01 pop-os CRON[8018]: pam_unix(cron:session): session closed for user root
+May  2 18:19:37 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/chmod +x exit_Codes.sh
+May  2 18:19:37 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:19:37 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:19:50 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install htop
+May  2 18:19:50 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:19:51 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:20:08 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt remove htop
+May  2 18:20:08 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:20:13 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:20:16 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:20:16 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:20:28 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install htop
+May  2 18:20:28 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:20:31 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:20:35 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:20:35 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:20:45 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:20:45 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:21:00 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:21:00 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:21:14 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:21:14 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:21:29 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  2 18:21:29 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  2 18:23:14 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install htop
+May  2 18:23:14 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:23:15 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:24:19 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install htop
+May  2 18:24:19 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:24:20 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:24:57 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install htop
+May  2 18:24:57 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:24:58 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:25:40 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install nothinggg
+May  2 18:25:40 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:25:40 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:31:51 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install htop
+May  2 18:31:51 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:31:53 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:32:25 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install nothing
+May  2 18:32:25 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:32:27 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 18:46:34 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt install notexist
+May  2 18:46:34 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 18:46:35 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 19:09:39 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt update
+May  2 19:09:39 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 19:09:49 pop-os gnome-keyring-daemon[2033]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  2 19:09:55 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 19:09:55 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day2 ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+May  2 19:09:55 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  2 19:14:26 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  2 19:17:01 pop-os CRON[24489]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  2 19:17:01 pop-os CRON[24489]: pam_unix(cron:session): session closed for user root
+May  2 19:29:08 pop-os systemd-logind[726]: Lid closed.
+May  2 19:29:08 pop-os systemd-logind[726]: Suspending...
+May  3 14:31:43 pop-os systemd-logind[726]: Lid opened.
+May  3 14:31:44 pop-os systemd-logind[726]: Operation 'sleep' finished.
+May  3 14:31:52 pop-os systemd-logind[726]: Lid closed.
+May  3 14:31:52 pop-os gnome-keyring-daemon[2033]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  3 14:32:11 pop-os systemd-logind[726]: Suspending...
+May  3 14:32:26 pop-os systemd-logind[726]: Lid opened.
+May  3 14:32:27 pop-os systemd-logind[726]: Operation 'sleep' finished.
+May  3 14:32:29 pop-os gdm-password]: gkr-pam: unlocked login keyring
+May  3 14:32:45 pop-os systemd-logind[726]: System is rebooting.
+May  3 14:33:42 pop-os systemd-logind[736]: New seat seat0.
+May  3 14:33:42 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event3 (Power Button)
+May  3 14:33:42 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event1 (Power Button)
+May  3 14:33:42 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event0 (Lid Switch)
+May  3 14:33:42 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event2 (Sleep Button)
+May  3 14:33:42 pop-os systemd-logind[736]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+May  3 14:33:43 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm(uid=111) by (uid=0)
+May  3 14:33:43 pop-os systemd-logind[736]: New session c1 of user gdm.
+May  3 14:33:43 pop-os systemd: pam_unix(systemd-user:session): session opened for user gdm(uid=111) by (uid=0)
+May  3 14:33:46 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.44 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  3 14:33:49 pop-os runuser: pam_unix(runuser:session): session opened for user twarga(uid=1000) by (uid=0)
+May  3 14:33:49 pop-os runuser: pam_unix(runuser:session): session closed for user twarga
+May  3 14:33:59 pop-os gdm-password]: gkr-pam: unable to locate daemon control file
+May  3 14:33:59 pop-os gdm-password]: gkr-pam: stashed password to try later in open session
+May  3 14:33:59 pop-os gdm-password]: pam_unix(gdm-password:session): session opened for user twarga(uid=1000) by (uid=0)
+May  3 14:33:59 pop-os systemd-logind[736]: New session 2 of user twarga.
+May  3 14:33:59 pop-os systemd: pam_unix(systemd-user:session): session opened for user twarga(uid=1000) by (uid=0)
+May  3 14:34:00 pop-os gdm-password]: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+May  3 14:34:01 pop-os gnome-keyring-daemon[2143]: The Secret Service was already initialized
+May  3 14:34:01 pop-os gnome-keyring-daemon[2143]: The SSH agent was already initialized
+May  3 14:34:01 pop-os gnome-keyring-daemon[2143]: The PKCS#11 component was already initialized
+May  3 14:34:02 pop-os polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.87 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+May  3 14:34:09 pop-os polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.44, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+May  3 14:34:09 pop-os gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+May  3 14:34:09 pop-os systemd-logind[736]: Session c1 logged out. Waiting for processes to exit.
+May  3 14:34:09 pop-os systemd-logind[736]: Removed session c1.
+May  3 14:34:30 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 14:34:30 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 14:35:10 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 14:35:10 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 14:35:23 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 14:35:23 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 14:35:34 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 14:35:34 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 15:06:19 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 15:06:19 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 15:09:57 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 15:09:57 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 15:17:01 pop-os CRON[9877]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  3 15:17:01 pop-os CRON[9877]: pam_unix(cron:session): session closed for user root
+May  3 15:34:05 pop-os gnome-keyring-daemon[2143]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  3 15:53:39 pop-os systemd-logind[736]: Lid closed.
+May  3 15:53:39 pop-os systemd-logind[736]: Suspending...
+May  3 15:55:16 pop-os systemd-logind[736]: Lid opened.
+May  3 15:55:16 pop-os systemd-logind[736]: Operation 'sleep' finished.
+May  3 15:55:44 pop-os gdm-password]: gkr-pam: unlocked login keyring
+May  3 15:56:42 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 15:56:42 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 16:17:01 pop-os CRON[24061]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  3 16:17:01 pop-os CRON[24061]: pam_unix(cron:session): session closed for user root
+May  3 16:35:37 pop-os gnome-keyring-daemon[2143]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  3 17:34:53 pop-os systemd-logind[736]: Operation 'sleep' finished.
+May  3 17:34:58 pop-os gnome-keyring-daemon[2143]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+May  3 17:35:10 pop-os gdm-password]: gkr-pam: unlocked login keyring
+May  3 17:36:15 pop-os PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+May  3 17:36:15 pop-os PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+May  3 18:17:01 pop-os CRON[38691]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  3 18:17:01 pop-os CRON[38691]: pam_unix(cron:session): session closed for user root
+May  3 18:50:38 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day3 ; USER=root ; COMMAND=/usr/bin/chmod +x for_loop.sh
+May  3 18:50:38 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+May  3 18:50:38 pop-os sudo: pam_unix(sudo:session): session closed for user root
+May  3 18:58:14 pop-os sudo:   twarga : TTY=pts/0 ; PWD=/home/twarga/Desktop/Gigachad bash challenge/Day3 ; USER=root ; COMMAND=/usr/bin/cp /var/log/alternatives.log /var/log/apport.log /var/log/auth.log /var/log/boot.log /var/log/bootstrap.log /var/log/dpkg.log /var/log/fontconfig.log /var/log/gpu-manager.log /var/log/kernelstub.log /var/log/kern.log /var/log/ubuntu-advantage.log /var/log/ubuntu-advantage-timer.log logfiles/
+May  3 18:58:14 pop-os sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)

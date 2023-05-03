@@ -1,0 +1,27 @@
+ERROR: apport (pid 54634) Sun Apr 23 18:45:22 2023: host pid 39610 crashed in a container without apport support
+ERROR: apport (pid 4884) Wed Apr 26 14:43:04 2023: called for pid 4772, signal 11, core limit 0, dump mode 1
+ERROR: apport (pid 4884) Wed Apr 26 14:43:04 2023: executable: /usr/bin/nautilus (command line "/usr/bin/nautilus --gapplication-service")
+ERROR: apport (pid 4884) Wed Apr 26 14:43:05 2023: debug: session gdbus call: (true,)
+
+ERROR: apport (pid 4884) Wed Apr 26 14:43:06 2023: wrote report /var/crash/_usr_bin_nautilus.1000.crash
+ERROR: apport (pid 9620) Thu Apr 27 13:15:20 2023: host pid 8266 crashed in a container without apport support
+ERROR: apport (pid 25577) Sat Apr 29 19:55:38 2023: host pid 5180 crashed in a container without apport support
+ERROR: apport (pid 11267) Tue May  2 14:46:48 2023: called for pid 11258, signal 6, core limit 0, dump mode 1
+ERROR: apport (pid 11267) Tue May  2 14:46:48 2023: executable: /usr/local/share/anki/anki (command line "anki")
+ERROR: apport (pid 11267) Tue May  2 14:46:48 2023: executable does not belong to a package, ignoring
+ERROR: apport (pid 23927) Tue May  2 18:08:26 2023: called for pid 1973, signal 11, core limit 0, dump mode 1
+ERROR: apport (pid 23927) Tue May  2 18:08:26 2023: executable: /usr/bin/pipewire (command line "/usr/bin/pipewire-pulse")
+ERROR: apport (pid 23927) Tue May  2 18:08:27 2023: gdbus call error: Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+
+ERROR: apport (pid 23927) Tue May  2 18:08:27 2023: debug: session gdbus call: 
+ERROR: apport (pid 23927) Tue May  2 18:08:27 2023: apport: report /var/crash/_usr_bin_pipewire.1000.crash already exists and unseen, skipping to avoid disk usage DoS
+ERROR: apport (pid 12512) Tue May  2 18:23:12 2023: called for pid 2459, signal 5, core limit 0, dump mode 1
+ERROR: apport (pid 12512) Tue May  2 18:23:12 2023: executable: /usr/bin/io.elementary.appcenter (command line "io.elementary.appcenter -s")
+ERROR: apport (pid 12512) Tue May  2 18:23:13 2023: debug: session gdbus call: (true,)
+
+ERROR: apport (pid 12512) Tue May  2 18:23:13 2023: apport: report /var/crash/_usr_bin_io.elementary.appcenter.1000.crash already exists and unseen, skipping to avoid disk usage DoS
+ERROR: apport (pid 36621) Wed May  3 17:37:13 2023: called for pid 2579, signal 5, core limit 0, dump mode 1
+ERROR: apport (pid 36621) Wed May  3 17:37:13 2023: executable: /usr/bin/io.elementary.appcenter (command line "io.elementary.appcenter -s")
+ERROR: apport (pid 36621) Wed May  3 17:37:14 2023: debug: session gdbus call: (true,)
+
+ERROR: apport (pid 36621) Wed May  3 17:37:14 2023: apport: report /var/crash/_usr_bin_io.elementary.appcenter.1000.crash already exists and unseen, skipping to avoid disk usage DoS
