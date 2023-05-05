@@ -1,0 +1,61 @@
+sending incremental file list
+created directory backup//current
+./
+importantll.txt
+
+sent 97 bytes  received 60 bytes  314.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backup//current
+./
+importantll.txt
+
+sent 97 bytes  received 60 bytes  314.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+backup/
+
+sent 74 bytes  received 20 bytes  188.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backup/current
+./
+importantll.txt
+
+sent 97 bytes  received 59 bytes  312.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backup/current
+./
+importantll.txt
+
+sent 97 bytes  received 59 bytes  312.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backup/current
+./
+importantll.txt
+
+sent 97 bytes  received 59 bytes  312.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backup/current
+./
+importantll.txt
+
+sent 97 bytes  received 59 bytes  312.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backup/current
+./
+importantll.txt
+
+sent 97 bytes  received 59 bytes  312.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+sending incremental file list
+created directory backup/current
+./
+importantll.txt
+
+sent 133 bytes  received 75 bytes  416.00 bytes/sec
+total size is 0  speedup is 0.00
